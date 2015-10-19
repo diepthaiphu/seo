@@ -148,8 +148,7 @@ Yahoo Web Analytics: is Yahoo!’s alternative to the dominant Google Analytics.
 PageSpeed Insights: Page Speed Insights measures the performance of a page for mobile devices and desktop devices.
 feedthebot seo tool: displays: domain strength, links, image seo, social counts & mentions, page/technical seo, pagespeed and more.
 <a href="http://seocheckonline.com/">seocheckonline.com</a>: Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance
-
-
+<a href="http://seo1s.com"><b>seo check and analyzer free</b></a>
 
 
 
